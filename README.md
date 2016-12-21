@@ -3,7 +3,7 @@
 
 * This model simulates 2 species Classic Lotkta-Volterra model with demographic stochasticity as defined in [1] Chapter 5.
 
-* You could find the application working at <https://phyzoo.shinyapps.io/ModelApp/>
+* You could find the application working at <https://phyzoo.shinyapps.io/StochasticCompetition/>
 
 
 ## References
